@@ -1,3 +1,15 @@
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
+	branch = kirkstone
+[submodule "meta-sunxi"]
+	path = meta-sunxi
+	url = https://github.com/linux-sunxi/meta-sunxi.git
+	branch = kirkstone
+[submodule "poky"]
+	path = poky
+	url = https://github.com/yoctoproject/poky.git
+	branch = kirkstone
+[submodule "sunxi-tools"]
+	path = sunxi-tools
+	url = https://github.com/linux-sunxi/sunxi-tools.git
